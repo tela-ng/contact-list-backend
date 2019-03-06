@@ -1,12 +1,17 @@
 # Contact List API (Test)
-Backend Software Engineer (Intern) Test (Divercity.io)
+Full Stack Software Engineer
 
 ## Functionalities 
 - Save New Contact
 - Fetch All Contacts
 - Search Contacts
+- Display all contact information
 
-
+## Frontend Tools
+- Bootstrap
+- React
+- Clean and Elegant Design (Copy of other contact list design is allowed, but CSS has to be written by you)
+- 
 
 ## Checks
 - Should not save duplicate phone numbers
@@ -20,8 +25,10 @@ Backend Software Engineer (Intern) Test (Divercity.io)
 - Hosting on Heroku is required
 
 ## Technologies
-- Express (NodeJS)
-- Postgres/MongoDB
+- Ruby on Rails
+- Postgres
+- ReactJS
+- Bootstrap
 
 
 
