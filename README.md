@@ -9,9 +9,8 @@ Full Stack Software Engineer
 
 ## Frontend Tools
 - Bootstrap
-- React
+- EmberJS
 - Clean and Elegant Design (Copy of other contact list design is allowed, but CSS has to be written by you)
-- 
 
 ## Checks
 - Should not save duplicate phone numbers
@@ -25,9 +24,9 @@ Full Stack Software Engineer
 - Hosting on Heroku is required
 
 ## Technologies
-- Ruby on Rails
+- Ruby on Rails (API Only)
 - Postgres
-- ReactJS
+- EmberJS
 - Bootstrap
 
 
